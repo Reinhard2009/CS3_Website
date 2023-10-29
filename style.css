@@ -1,6 +1,9 @@
-.navigation_bar {
+* {
     padding: 0;
     margin: 0;
+}
+
+.navigation_bar {
     /*/text-decoration: none;/*/
     list-style: none;
     box-sizing: border-box;
