@@ -1,13 +1,9 @@
-* {
+.navigation_bar {
     padding: 0;
     margin: 0;
     /*/text-decoration: none;/*/
     list-style: none;
     box-sizing: border-box;
-
-}
-
-.navigation_bar {
     height: 80px;
     width: 100%;
     height: 150px;
