@@ -58,7 +58,7 @@
 }
 
 .information {
-    padding-top: 100px;
+    padding-top: 60px;
     padding-left: 150px;
 }
 
@@ -68,24 +68,24 @@
 }
   
 .information h1 {
-    font-size: 28px;
+    font-size: 32px;
     font-weight: bold;
     margin-top: 0;
 }
   
 .information h2 {
-    font-size: 18px;
+    font-size: 22px;
     font-weight: bold;
     margin-top: 20px;
 }
   
 .information p {
-    margin-top: 12px;
+    margin-top: 10px;
 }
   
 .information ul {
     list-style-type: disc;
-    padding-left: 20px;
+    padding-left: 22px;
   }
 
 .go-back-button {
