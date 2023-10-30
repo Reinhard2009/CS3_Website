@@ -12,11 +12,13 @@
     width: 100%;
     height: 150px;
     background: lightgrey;
+    font-family: 'Poppins';
 }
 
 .navigation_bar ul {
     float: right;
     margin-right: 100px;
+    font-family: 'Poppins';
 }
 
 .navigation_bar ul li {
@@ -67,12 +69,14 @@
 
 .information body {
     font-family: sans-serif;
+    font-family: 'Poppins';
 }
   
 .information h1 {
     font-size: 32px;
     font-weight: bold;
     margin-top: 0;
+    font-family: 'Poppins';
 }
   
 .information h2 {
