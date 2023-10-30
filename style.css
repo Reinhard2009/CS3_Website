@@ -66,17 +66,17 @@
 
 
 .information body {
-    font-family: sans-serif;
+    font-family: 'Poppins';
 }
   
 .information h1 {
-    font-size: 32px;
+    font-size: 40px;
     font-weight: bold;
     margin-top: 0;
 }
   
 .information h2 {
-    font-size: 22px;
+    font-size: 28px;
     font-weight: bold;
     margin-top: 20px;
 }
@@ -87,7 +87,7 @@
   
 .information ul {
     list-style-type: disc;
-    padding-left: 22px;
+    padding-left: 28px;
   }
 
 .go-back-button {
