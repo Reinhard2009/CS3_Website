@@ -3,6 +3,12 @@
 
 }
 
+.copyright p {
+    position: absolute;
+    margin-top: 2100px;
+}
+
+
 .nav-verical {
     position: absolute;
     left: 0;
