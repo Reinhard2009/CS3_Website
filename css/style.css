@@ -389,17 +389,18 @@
 }
 
 .snake:hover {
-    width: 1150px; height: 410px;
+    width: 203px; height: 189px;
     margin-left: 200px;
     margin-top: 20px;
     background: url('../images/css_sprites.png');
 }
 
 .snake {
-    width: 1280px; height: 410px;
+    width: 203px; height: 189px;
     margin-left: 200px;
     margin-top: 20px;
     background: url('../images/blank.png');
+    transition: background 1s ease;
 }
 
 
