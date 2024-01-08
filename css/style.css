@@ -100,7 +100,7 @@
 
 .home_body {
     background-color: gray;
-    height: 610px;
+    height: 595px;
     border-radius: 50px;
 }
 
@@ -376,6 +376,52 @@
 /* about.html */
 .sprite {
     position: relative;
+}
+
+.sprite p {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+
+.sprite2:hover {
+    height: 80px;
+    width: 85px;
+    margin-top: 10px;
+    margin-left: 150px;
+    background: url('../images/sprite-2.png') no-repeat;
+    transition: background 0.5s ease;
+    border-radius: 10px;
+}
+
+.sprite2 {
+    height: 80px;
+    width: 85px;
+    margin-top: 10px;
+    margin-left: 150px;  
+    background: url('../images/sprite-2.png') no-repeat 0px -85px;
+    transition: background 0.5s ease;
+    border-radius: 10px;
+}
+
+.sprite12:hover {
+    height: 80px;
+    width: 85px;
+    margin-top: 10px;
+    margin-left: 50px;
+    background: url('../images/sprite-12.png') no-repeat;
+    transition: background 0.5s ease;
+    border-radius: 10px;
+}
+
+.sprite12 {
+    height: 80px;
+    width: 85px;
+    margin-top: 10px;
+    margin-left: 50px;  
+    background: url('../images/sprite-12.png') no-repeat 0px -85px;
+    transition: background 0.5s ease;
+    border-radius: 10px;
 }
 
 .snake a {
