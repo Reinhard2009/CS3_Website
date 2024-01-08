@@ -47,22 +47,22 @@
 }
 
 #home:hover {
-    transform: translateY(-15px);
+    transform: translateY(-10px);
     transition: transform 0.3s ease;
 }
 
 #protocols:hover {
-    transform: translateY(-15px);
+    transform: translateY(-10px);
     transition: transform 0.3s ease;
 }
 
 #shop:hover {
-    transform: translateY(-15px);
+    transform: translateY(-10px);
     transition: transform 0.3s ease;
 }
 
 #about:hover {
-    transform: translateY(-15px);
+    transform: translateY(-10px);
     transition: transform 0.3s ease;
 }
 
