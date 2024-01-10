@@ -89,22 +89,22 @@
 }
 
 #home:hover {
-    transform: translateY(-10px);
+    transform: translateY(-5px);
     transition: transform 0.3s ease;
 }
 
 #protocols:hover {
-    transform: translateY(-10px);
+    transform: translateY(-5px);
     transition: transform 0.3s ease;
 }
 
 #shop:hover {
-    transform: translateY(-10px);
+    transform: translateY(-5px);
     transition: transform 0.3s ease;
 }
 
 #about:hover {
-    transform: translateY(-10px);
+    transform: translateY(-5px);
     transition: transform 0.3s ease;
 }
 
@@ -155,9 +155,6 @@
     font-size: 50px;
 }
 
-.home_body h1 p {
-    
-}
 .home_body p {
     
     padding-left: 150px;
