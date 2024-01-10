@@ -145,7 +145,7 @@
 .home_body {
     background-color: gray;
     height: 595px;
-    border-radius: 50px;
+    border-radius: 40px;
 }
 
 .home_body h1 {
@@ -163,7 +163,7 @@
     padding-left: 150px;
     padding-right: 50px;
     
-    font-size: 19px;
+    font-size: 110%;
 }
 
 .home_body p img {
